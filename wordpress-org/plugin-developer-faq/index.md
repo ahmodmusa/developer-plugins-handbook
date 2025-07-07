@@ -52,7 +52,7 @@ The slug will also determine the following:
 - The address of your plugin's SVN repository and trac: `plugins.svn.wordpress.org/boaty-mcboatface` and `plugins.trac.wordpress.org/browser/boaty-mcboatface`
 - Your plugin's text-domain for internationalization functions: `esc_html__('Hello', 'boaty-mcboatface');`
 
-Once your plugin is approved, this name **cannot** be renamed. Please chose wisely.
+Once your plugin is approved, this name **cannot** be renamed. Please choose wisely.
 
 ### Why did I get a different slug than I was told?
 
